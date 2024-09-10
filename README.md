@@ -1,7 +1,11 @@
 # SantanderCoders-Empregabilidade-Calculadora
 
 # Explicação do Código
-### Funções de Operação: As funções add, subtract, multiply, e divide realizam operações aritméticas básicas.
+### Funções de Operação: 
+* add (adição).
+* subtract (subtração).
+* multiply (multiplicação).
+* divide (divisão).
 ### Função main:
 * Exibe um menu com as opções de operações.
 * Solicita ao usuário que escolha uma operação.
